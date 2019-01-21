@@ -1,0 +1,22 @@
+{
+  "name": "apple_cert",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhr000lhr/apple_cert.git"
+  },
+  "author": "lihaoran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhr000lhr/apple_cert/issues"
+  },
+  "homepage": "https://github.com/lhr000lhr/apple_cert#readme",
+  "description": "",
+  "dependencies": {
+    "fastlane-produce": "^1.0.0"
+  }
+}
